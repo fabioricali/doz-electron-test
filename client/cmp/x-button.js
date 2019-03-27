@@ -12,7 +12,6 @@ define('x-button', class extends Component {
         }
     }
 
-
     template(h) {
         return h`
             <button onclick="alert('Process ID ' + process.pid)">Click</button>
