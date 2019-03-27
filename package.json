@@ -1,0 +1,17 @@
+{
+  "name": "doz-electron-test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "doz": "^1.16.0",
+    "electron": "^4.1.1"
+  }
+}
